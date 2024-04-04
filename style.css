@@ -1,0 +1,13 @@
+    div#header{
+        background-color: whitesmoke;
+        
+       }
+     div#foot{
+        background-color: grey;
+     }
+        img{
+           border-radius: 50%;
+        }
+        body{
+           background-color: black;
+        }
