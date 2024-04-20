@@ -1,13 +1,27 @@
-    div#header{
-        background-color: whitesmoke;
-        
-       }
-     div#foot{
-        background-color: grey;
-     }
-        img{
-           border-radius: 50%;
-        }
-        body{
-           background-color: black;
-        }
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+body{
+   background-image: url(preto.jpeg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size:cover  ;
+}
+body {
+   background-color: #ADD8E6;
+   color: rgb(255, 255, 255);
+   max-width: 1000px;
+   margin: auto;
+   font-family: "Outfit", sans-serif;
+   padding: 10%;
+}
+.Box{
+display: flex;
+justify-content: space-around;
+align-items:flex-start;
+flex-direction: column;
+   
+}
+.Big{
+   width: 60%;
+}
+
