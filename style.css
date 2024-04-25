@@ -21,7 +21,8 @@ align-items:flex-start;
 flex-direction: column;
    
 }
-.Big{
-   width: 60%;
+img{
+   border-radius: 50%;
+   box-shadow: 0 0 25px #ffff;
 }
 
